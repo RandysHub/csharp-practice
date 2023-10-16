@@ -1,0 +1,14 @@
+C:\Users\Randy\Documents\Desktop\CODINGSAHIT\Microsoft C# Course\test\test\bin\Debug\net7.0\test.exe
+C:\Users\Randy\Documents\Desktop\CODINGSAHIT\Microsoft C# Course\test\test\bin\Debug\net7.0\test.deps.json
+C:\Users\Randy\Documents\Desktop\CODINGSAHIT\Microsoft C# Course\test\test\bin\Debug\net7.0\test.runtimeconfig.json
+C:\Users\Randy\Documents\Desktop\CODINGSAHIT\Microsoft C# Course\test\test\bin\Debug\net7.0\test.dll
+C:\Users\Randy\Documents\Desktop\CODINGSAHIT\Microsoft C# Course\test\test\bin\Debug\net7.0\test.pdb
+C:\Users\Randy\Documents\Desktop\CODINGSAHIT\Microsoft C# Course\test\test\obj\Debug\net7.0\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Randy\Documents\Desktop\CODINGSAHIT\Microsoft C# Course\test\test\obj\Debug\net7.0\test.AssemblyInfoInputs.cache
+C:\Users\Randy\Documents\Desktop\CODINGSAHIT\Microsoft C# Course\test\test\obj\Debug\net7.0\test.AssemblyInfo.cs
+C:\Users\Randy\Documents\Desktop\CODINGSAHIT\Microsoft C# Course\test\test\obj\Debug\net7.0\test.csproj.CoreCompileInputs.cache
+C:\Users\Randy\Documents\Desktop\CODINGSAHIT\Microsoft C# Course\test\test\obj\Debug\net7.0\test.dll
+C:\Users\Randy\Documents\Desktop\CODINGSAHIT\Microsoft C# Course\test\test\obj\Debug\net7.0\refint\test.dll
+C:\Users\Randy\Documents\Desktop\CODINGSAHIT\Microsoft C# Course\test\test\obj\Debug\net7.0\test.pdb
+C:\Users\Randy\Documents\Desktop\CODINGSAHIT\Microsoft C# Course\test\test\obj\Debug\net7.0\test.genruntimeconfig.cache
+C:\Users\Randy\Documents\Desktop\CODINGSAHIT\Microsoft C# Course\test\test\obj\Debug\net7.0\ref\test.dll
